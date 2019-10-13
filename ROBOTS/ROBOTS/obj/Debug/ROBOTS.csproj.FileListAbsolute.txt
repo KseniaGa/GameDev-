@@ -1,0 +1,7 @@
+C:\Users\Слава\source\repos\ROBOTS\ROBOTS\bin\Debug\ROBOTS.exe.config
+C:\Users\Слава\source\repos\ROBOTS\ROBOTS\bin\Debug\ROBOTS.exe
+C:\Users\Слава\source\repos\ROBOTS\ROBOTS\bin\Debug\ROBOTS.pdb
+C:\Users\Слава\source\repos\ROBOTS\ROBOTS\obj\Debug\ROBOTS.csprojResolveAssemblyReference.cache
+C:\Users\Слава\source\repos\ROBOTS\ROBOTS\obj\Debug\ROBOTS.csproj.CoreCompileInputs.cache
+C:\Users\Слава\source\repos\ROBOTS\ROBOTS\obj\Debug\ROBOTS.exe
+C:\Users\Слава\source\repos\ROBOTS\ROBOTS\obj\Debug\ROBOTS.pdb
